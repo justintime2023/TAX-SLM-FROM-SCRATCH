@@ -40,7 +40,7 @@ Converts text data to binary format for efficient training.
 ```bash
 python train.py
 ```
-Training takes ~2-4 hours on Mac M1/M2/M3.
+Training takes ~20 hours on Mac M1/M2/M3.
 
 **Expected training progress:**
 - Initial loss: ~4.0
